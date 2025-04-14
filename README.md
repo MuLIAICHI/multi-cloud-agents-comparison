@@ -62,7 +62,7 @@ Each implementation has its own README with detailed setup instructions:
 
 ## 📚 Learn More
 
-For a detailed comparison of these approaches, check out our [Medium article](https://medium.com/@yourusername/multi-cloud-agents-showdown).
+For a detailed comparison of these approaches, check out our [Medium article](https://medium.com/@mustaphaliaichi/multi-cloud-agents-showdown-n8n-vs-pydantic-ai-for-mcp-integration-16e06776f8cd).
 
 ## 🛠️ Prerequisites
 
