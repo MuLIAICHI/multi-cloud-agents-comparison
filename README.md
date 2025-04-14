@@ -9,18 +9,27 @@ Both implementations achieve the same goal - creating AI agents that can discove
 
 ## 🌟 Showcase
 
-
 <table>
   <tr>
     <td width="50%">
       <strong>n8n Approach</strong><br>
-      Visual workflow-based implementation
-      <img src="./assets/n8n-workflow.png" alt="n8n Workflow Example">
+      Visual workflow-based implementation that uses:
+      <ul>
+        <li>Drag-and-drop node connections</li>
+        <li>MCP client tools as workflow nodes</li>
+        <li>Webhook triggers for chat interfaces</li>
+        <li>Postgresql for conversation memory</li>
+      </ul>
     </td>
     <td width="50%">
       <strong>Pydantic AI Approach</strong><br>
-      Code-first Python implementation
-      <img src="./assets/python-code.png" alt="Python Code Example">
+      Code-first Python implementation featuring:
+      <ul>
+        <li>Async Python for MCP connections</li>
+        <li>Dynamic tool discovery and conversion</li>
+        <li>Programmatic error handling</li>
+        <li>CLI-based testing interface</li>
+      </ul>
     </td>
   </tr>
 </table>
