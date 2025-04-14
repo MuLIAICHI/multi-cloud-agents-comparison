@@ -9,17 +9,18 @@ Both implementations achieve the same goal - creating AI agents that can discove
 
 ## 🌟 Showcase
 
+
 <table>
   <tr>
     <td width="50%">
       <strong>n8n Approach</strong><br>
       Visual workflow-based implementation
-      <img src="https://raw.githubusercontent.com/MuLIAICHI/assets/n8n-workflow-placeholder.png" alt="n8n Workflow Example">
+      <img src="./assets/n8n-workflow.png" alt="n8n Workflow Example">
     </td>
     <td width="50%">
       <strong>Pydantic AI Approach</strong><br>
       Code-first Python implementation
-      <img src="https://raw.githubusercontent.com/MuLIAICHI/assets/main/n8n-workflow-placeholder.png" alt="Python Code Example">
+      <img src="./assets/python-code.png" alt="Python Code Example">
     </td>
   </tr>
 </table>
