@@ -19,7 +19,7 @@ Both implementations achieve the same goal - creating AI agents that can discove
     <td width="50%">
       <strong>Pydantic AI Approach</strong><br>
       Code-first Python implementation
-      <img src="https://raw.githubusercontent.com/MuLIAICHI/assets/python-code-placeholder.png" alt="Python Code Example">
+      <img src="https://raw.githubusercontent.com/MuLIAICHI/assets/main/n8n-workflow-placeholder.png" alt="Python Code Example">
     </td>
   </tr>
 </table>
