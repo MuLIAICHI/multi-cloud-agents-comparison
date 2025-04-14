@@ -1,11 +1,5 @@
 # n8n MCP Agent Demo
 
-<div align="center">
-
-[![Back to Main](https://img.shields.io/badge/Back%20to%20Main-Repository-blue?style=for-the-badge)](https://github.com/MuLIAICHI/multi-cloud-agents-comparison)
-[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
-
-</div>
 
 This directory contains a workflow for n8n that demonstrates how to build an AI agent that leverages the Model Context Protocol (MCP) to access and execute external tools.
 

@@ -1,12 +1,5 @@
 # Pydantic AI MCP Agent - Tool Integration Framework
 
-<div align="center">
-
-[![Back to Main](https://img.shields.io/badge/Back%20to%20Main-Repository-blue?style=for-the-badge)](https://github.com/MuLIAICHI/multi-cloud-agents-comparison)
-[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-
-</div>
 
 This project demonstrates how to build an AI agent that integrates with Model Context Protocol (MCP) servers, allowing AI models to access external tools through a standardized interface. It uses Pydantic AI for the agent framework and MCP for tool integration, and the MCP configuration is similar to Claude Desktop/Windsurf/Cline.
 
